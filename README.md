@@ -4,7 +4,7 @@
 </a>
 </p>
 
-# TensorTask: Decentralized A.I. for All
+# TensorTask: Decentralized AI for All
 
 ## Mission
 * Create systems that maximize the collaboration between neural networks and data scientists in a decentralized manner.
@@ -26,7 +26,7 @@ If you want to be notified of TensorTask's developments, sign up to our notifica
 ## FAQ
 
 #### What does TensorTask projects do exactly?
-We are building protocols that enable decentralized A.I. at a financial and technical level. More later.
+We are building protocols that enable decentralized AI at a financial and technical level. More later.
 
 #### Will your project be open-source?
 Yes, and that's a promise.
