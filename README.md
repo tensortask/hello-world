@@ -32,7 +32,7 @@ We are building protocols that enable decentralized AI at a financial and techni
 Yes, and that's a promise.
 
 #### What is TensorTask Incorporated's involvement?
-TensorTask, Inc. is funding the research/development. However, to be explicit, the core project(s) will be completely open-source and fully-decentralized. **TensorTask, Inc. will NEVER be a required intermediary.** TensorTask, Inc. will simply be an early adopter of the technology(s) and may spawn for-profit products that supplement the ecosystem (think enterprise-level management, or simplified user experience).
+TensorTask, Inc. is funding the research/development. However, to be explicit, the core project(s) will be completely open-source and fully-decentralized. **TensorTask, Inc. will NEVER be a required intermediary,** but rather an early adopter of the technology(s). The company may spawn for-profit products that supplement the ecosystem (think enterprise-level management, or simplified user experiences) to sustain project development.
 
 #### How can I help?
 This depends largely on your skillset. Send an email to <a href="mailto:human@tensortask.com">human@tensortask.com</a> to start the dialogue.
