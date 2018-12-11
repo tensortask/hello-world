@@ -10,7 +10,7 @@
 * Create systems that maximize the collaboration between neural networks and data scientists in a decentralized manner.
 * Turn the internet into a large interconnected neural net.
 * Explore micro-payments as a means of incentivizing collaboration/development within data science.
-* Make artificial intelligence and big data benefit everyone (financially and technologically).
+* Open the benefits of machine intelligence to everyone (financially and technologically).
 
 ## Stealth Mode
 TensorTask is in stealth mode while we develop the underlying technology. We believe in releasing high-quality and well-tested code. We also want to perform internal research, reach milestones, and undergo a security audit.
@@ -26,7 +26,7 @@ If you want to be notified of TensorTask's developments, sign up to our notifica
 ## FAQ
 
 #### What does TensorTask projects do exactly?
-We are building protocols that enable decentralized AI at a financial and technical level. More later.
+We are building protocols that enable decentralized Machine Learning at a financial and technical level. More later.
 
 #### Will your project be open-source?
 Yes, and that's a promise.
