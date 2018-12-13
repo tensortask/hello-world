@@ -25,7 +25,7 @@ If you want to be notified of TensorTask's developments, sign up to our notifica
 
 ## FAQ
 
-#### What does TensorTask projects do exactly?
+#### What do TensorTask projects do exactly?
 We are building protocols that enable decentralized machine intelligence at a financial and technical level. More later.
 
 #### Will your project be open-source?
